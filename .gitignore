@@ -1,0 +1,7 @@
+server/bot/.env
+server/bot/data
+server/service/templates
+server/service/migrations
+server/celerybeat-shedule
+server/db
+venv
